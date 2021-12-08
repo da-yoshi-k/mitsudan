@@ -1,24 +1,13 @@
-# README
+# 密談
+## コンセプト
+2人の部屋で秘密のお話しをするアプリ。  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## ターゲットのユーザー
+面白いことが好きな人。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実装予定の機能
+- チャット機能
+  - チャット
+  - テキスト読み上げ
+  - 投稿の自動削除（優先度中）
+  - 音声の加工（優先度低）
